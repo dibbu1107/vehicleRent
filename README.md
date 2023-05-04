@@ -1,10 +1,13 @@
 # vehicleRent
 vehicle rental app
 
-Step 1 : npm i \n
-Step 2 : npm run migrate \n
-step 3 : npm run start \n
+```
+Step 1 : npm i
 
+Step 2 : npm run migrate 
+
+step 3 : npm run start
+```
 
 ```
 curl --location 'localhost:6000/vehicle/model/2/bike'
