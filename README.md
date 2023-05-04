@@ -6,10 +6,10 @@ Step 2 : npm run migrate
 step 3 : npm run start
 
 
-``
+```
 curl --location 'localhost:6000/vehicle/model/2/bike'
 
-``
+```
 
 ``
 curl --location 'localhost:6000/vehicle/wheels'
